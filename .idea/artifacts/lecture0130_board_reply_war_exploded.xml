@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lecture0130_board_reply:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lecture0130_board_reply_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lecture0130_board_reply/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lecture0130_board_reply" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.48-bin" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
